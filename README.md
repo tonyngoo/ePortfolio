@@ -9,6 +9,7 @@ The program allows the user to do 5 different commands:
  - Update: Changes the prices of whichever investments they want
  - GetGain: Tells the user what the total gain of the portfolio would be if they sold
  - Search: The user is able to enter a symbol, keyword, or price range that allows a filter search for any investment that is owned
+
 The program also includes an exit command which closes the program
 The program tries to ensure the best experience for the investor when they are tracking their stocks and mutualfunds.
     
