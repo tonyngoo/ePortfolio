@@ -2,15 +2,15 @@
 
 ## (1): General Problem to be Solved
 
-    The problem at hand is to create an ePortfolio program, implementing a GUI which allows an investor to track stocks and mutualfunds that they buy.
-    The program allows the user to do 5 different commands:
-        - Buy: The user is able to choose a stock or mutualfund and buy a certain amount of it at a specific quantity
-        - Sell: The user is able to sell an existing stock or mutualfund for a certain amount of quantity (that does not exceed the amount bought)
-        - Update: Changes the prices of whichever investments they want
-        - GetGain: Tells the user what the total gain of the portfolio would be if they sold
-        - Search: The user is able to enter a symbol, keyword, or price range that allows a filter search for any investment that is owned
-    The program also includes an exit command which closes the program
-    The program tries to ensure the best experience for the investor when they are tracking their stocks and mutualfunds.
+The problem at hand is to create an ePortfolio program, implementing a GUI which allows an investor to track stocks and mutualfunds that they buy.
+The program allows the user to do 5 different commands:
+ - Buy: The user is able to choose a stock or mutualfund and buy a certain amount of it at a specific quantity
+ - Sell: The user is able to sell an existing stock or mutualfund for a certain amount of quantity (that does not exceed the amount bought)
+ - Update: Changes the prices of whichever investments they want
+ - GetGain: Tells the user what the total gain of the portfolio would be if they sold
+ - Search: The user is able to enter a symbol, keyword, or price range that allows a filter search for any investment that is owned
+ - The program also includes an exit command which closes the program
+ - The program tries to ensure the best experience for the investor when they are tracking their stocks and mutualfunds.
     
 ## (2): Assumptions and Limitations
 
